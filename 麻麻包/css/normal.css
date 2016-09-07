@@ -1,0 +1,171 @@
+
+html,body,div,ul,li,p,h1,h2,h3,h4,h5,h6,b,i,a,span,table,tr,td,tbody,thead,dt,dl,dd,ol,img,input{margin: 0; padding: 0; font:14px/1.5 "Microsoft Yahei"; color: #333; font-weight: normal;}
+body{background: #fff; width: 100%;}
+img{border: none;}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+
+
+/*----------------------------------头部滚动条-----------------------------------------------*/
+.head{}
+
+
+/*    注册登录条           */
+.page_header{background: #f0f0f0; height:32px;}
+.page_header_contain{width:1090px; margin:0 auto; height:32px;}
+
+
+.left{ float: left;}
+.left li{float: left; margin-left: 10px; margin-top: 5px;}
+.left li span{ display: block; float: left;}
+.high-light-red{color:#e06061;
+			    border:1px solid #e06061; border-radius: 5px;
+			    width:22px; height: 22px;
+			    text-align: center; margin-right: 5px;
+			    }
+.high-light-bink{ color:#e26077; display: block; background: url(../img/head/phone.png) no-repeat left center;
+				padding-left: 16px;
+				}
+
+
+.right{float: right;}
+.right li{float: left; padding:0 25px; height:18px; margin-top:6px; border-left: 1px solid #92959c;}
+.right li a{font-size: 14px;}
+.right li a:hover{color: #034f81;}
+
+
+
+/*       搜索购物车栏                    */
+.search{width: 1090px; height: 102px; margin:0 auto; padding-top: 18px;}
+
+.ico li{ float: left;}
+.line{width:1px; height: 46px; background: #cccccc; margin:0 20px; margin-top:15px;}
+.ico-www{ width:125px; height: 42px;margin-top:21px;}
+.ico-www span{display: block; font-size: 14px;;}
+.ico-www strong{display: block; color: #CCCCCC; font-weight: normal; font-size: 15px;}
+
+
+.search-contain{float: right; margin-top:20px;}
+.search-contain li{float:left;}
+
+.search-text{ width:260px; height: 20px;
+			 border:2px solid #d66263; float: left;
+			 color: #a9a9a9; padding:10px 0 10px 20px;
+			 }
+.search-button{width:78px; height: 44px;float: left; border: none;
+			   background: #d66263 url(../img/head/search.png) no-repeat center;
+			   cursor: pointer;
+			  }
+
+.search-car{ width:130px; height: 24px; margin-left: 70px; padding:9px 24px 9px 8px;
+			border:1px solid #91959e;
+			}
+.car-ico{width:22px; height:22px; 
+		background: url(../img/head/header-nav.png) no-repeat -21px 3px;
+		 float: left; position: relative;
+		}
+.car-text{float: right; font-size:16px;color: #92959c;}
+.car-num{width: 20px; height: 20px; background: #df6061;text-align: center;
+		color: #FFFFFF; border-radius: 10px; line-height: 20px;
+		position: absolute;
+		top: -10px;left: 10px;
+		}
+
+
+
+
+
+/*----------------------------------nav 导航条-----------------------------------------------*/
+.nav-father{border-bottom: 1px solid #d66263;}
+.nav{width:1090px; height: 41px; margin:0 auto; }
+.nav ul{overflow: hidden;}
+.nav ul li{ float: left; line-height: 41px;}
+.nav ul li a{ width: 122px; height: 41px;display: block; text-align: center; 
+			line-height: 41px;
+			font-size: 14px; position:relative;
+			}
+.nav ul li a:hover{color: #d66263;}
+.nav ul li a:hover .nav1-small{display: block;}
+.nav ul li a:hover .nav2-small{display: block;}
+.nav-down{width:150px; background: #d66263; color:#FFFFFF;padding-left: 38px; position: relative;}
+.nav-ico{ width: 9px; height: 5px; background: url(../img/head/header-nav.png) no-repeat -71px -9px;
+		position: absolute; right: 36px; top:19px;
+		}
+
+.nav .nav1-small{width: 100%; height: 3px; background: #d66263;position:absolute; top:38px; display: none;}
+.nav .nav2-small{width: 11px;height:3px; background:url(../img/head/header-nav.png) no-repeat -84px -9px;
+				position: absolute;bottom: 3px; left:50%;
+				display: none;
+				}
+
+
+
+.banner{height: 480px; width:100%;}
+
+.banner #slider a img{height: 480px; width: 1920px; }
+.banner #slider{margin-left: -300px; width:1920px;height: 480px;}
+/*
+.banner #slider{height: 480px;}
+.banner .slider-wrapper{height: 480px;}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
